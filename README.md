@@ -1,4 +1,4 @@
-<div style="text-align: center; font-style: italic">「<ruby>
+<p style="text-align: center; font-style: italic" align="center"><i>「<ruby>
   僕<rp>(</rp><rt>Boku</rt><rp>)</rp>
   は<rp>(</rp><rt>wa</rt><rp>)</rp>
   今<rp>(</rp><rt>ima</rt><rp>)</rp>
@@ -32,13 +32,13 @@
   の<rp>(</rp><rt>no</rt><rp>)</rp>
   黒い<rp>(</rp><rt>kuroi</rt><rp>)</rp>
   影<rp>(</rp><rt>kage</rt><rp>)</rp>
-</ruby>」</div>
+  </ruby>」</i></p>
 
-<div style="text-align: right; font-style: italic">——《<ruby>
+<p style="text-align: right; font-style: italic" align="right"><i>——《<ruby>
   月<rp>(</rp><rt>tsuki</rt><rp>)</rp>
   の<rp>(</rp><rt>no</rt><rp>)</rp>
   爆撃機<rp>(</rp><rt>bakugeki-ki</rt><rp>)</rp>
-</ruby>》</div>
+  </ruby>》</i></p>
 
 ---
 
